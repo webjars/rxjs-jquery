@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>rxjs-jquery</artifactId>
-    <version>1.1.6-SNAPSHOT</version>
+    <version>1.1.6</version>
     <name>rxjs-jquery</name>
     <description>WebJar for rxjs-jquery</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/rxjs-jquery</url>
         <connection>scm:git:https://github.com/webjars/rxjs-jquery.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/rxjs-jquery.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>rxjs-jquery-1.1.6</tag>
     </scm>
     
     <dependencies>
